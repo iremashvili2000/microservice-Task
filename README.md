@@ -4,6 +4,10 @@ This project contains two microservices, `order-managment-service` and `user-man
 
 ---
 
+application automaticly generate user whos role is ADMIN his credintials is:
+password: admin123
+username: admin
+
 for testing using swager links (this is default values):
 
 http://localhost:8888/swagger-ui/index.html
